@@ -89,10 +89,10 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>R</strong>: I use R as my main programming language for statistics, health economic evaluation, capacity modelling and geo-spacial analysis.
-   <strong>Simul8</strong>: I teach capacity modelling and health economic evaluation in Simul8.
-   <strong>STATA</strong> I was originally trained as a health economist in STATA, I worked in STATA full time for 3 years before moving to R.
-   <strong>Excel VBA</strong>: I have some limited experience working with Excel VBA.
-   <strong>R-Shiny</strong>: I have considerable experience working with R-Shiny to create user interfaces for health economic models. These are being used in a variety of settings including by the WHO Dept Sexual Health.
-   <strong>Teaching</strong>: I have taught a variety of topics ranging from epidemiology to economics, basic programming in R to R-Shiny for health economics.
-   <strong>Git/GitHub</strong>: All of my projects use Git/GitHub for version control and collaboration. I have experience in teaching Git to new users.
+   <strong>R</strong>: I use R as my main programming language for statistics, health economic evaluation, capacity modelling and geo-spacial analysis.<br/><br/>
+   <strong>Simul8</strong>: I teach capacity modelling and health economic evaluation in Simul8.<br/><br/>
+   <strong>STATA</strong> I was originally trained as a health economist in STATA, I worked in STATA full time for 3 years before moving to R.<br/><br/>
+   <strong>Excel VBA</strong>: I have some limited experience working with Excel VBA.<br/><br/>
+   <strong>R-Shiny</strong>: I have considerable experience working with R-Shiny to create user interfaces for health economic models. These are being used in a variety of settings including by the WHO Dept Sexual Health.<br/><br/>
+   <strong>Teaching</strong>: I have taught a variety of topics ranging from epidemiology to economics, basic programming in R to R-Shiny for health economics.<br/><br/>
+   <strong>Git/GitHub</strong>: All of my projects use Git/GitHub for version control and collaboration. I have experience in teaching Git to new users.<br/><br/>
