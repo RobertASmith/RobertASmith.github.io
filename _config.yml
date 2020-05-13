@@ -82,10 +82,12 @@ github:
  - RobertASmith/covid_bangladesh
 
 intro: |
-  I am a health economist currently funded by a Wellcome Trust PhD scholarship in Public Health Economics and Decision Science at the University of Sheffield, UK. My research is focused on the application of methods from health economics and data science to public health. 
-  I have a specific interest in physical activity, my PhD focuses on the methods used by economists to estimate the costs and benefits associated with changes in population physical activity, with a specific interest in micro-simulation techniques in R. 
-  I have become increasingly interested in the use of data-science to improve the transparency of economic models, and have developed several R-Shiny applications to aid decision makers.
-  I teach epidemiology and medical statistics to undergraduates, advanced simulation methods to postgraduates, and 'Introduction to R' as a Short Course. I was a recipient of a Sheffield Sport Scholarship in Athletics.
+  I am a health economist currently funded by a Wellcome Trust PhD scholarship in Public Health Economics and Decision Science at the University of Sheffield, UK.<br/><br/> 
+  My research is focused on the application of methods from health economics and data science to public health.<br/><br/> 
+  I have a specific interest in physical activity, my PhD focuses on the methods used by economists to estimate the costs and benefits associated with changes in population physical activity.<br/><br/> 
+  I have become increasingly interested in the use of data-science to improve the transparency of economic models, and have developed several R-Shiny applications to aid decision makers.<br/><br/>
+  I teach epidemiology and medical statistics to undergraduates, advanced simulation methods to postgraduates, and R/Rshiny as short courses. <br/><br/>
+  I was a recipient of a Sheffield Sport Scholarship in Athletics.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
