@@ -14,27 +14,20 @@ primarylinks:
  - title: UoS
    url: https://www.sheffield.ac.uk/scharr/staff-pgrs/studentprofiles/robertsmith
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/robert-smith-53b28438/
  - title: Twitter
    url: https://twitter.com/R06ertSm1th
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
+ - R
+ - RShiny
+ - STATA
+ - Simul8
+ - Excel VBA
+ - Discrete Event Simulation
+ - Microsimulation
+ - Cohort Models
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
