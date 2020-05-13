@@ -33,31 +33,31 @@ skills:
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Analyst/Partner
+   start: 2019
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
+   employer: Dark Peak Analytics
+   description: Collaboration with Dr Paul Schneider providing expertise in health economics, data science & public health. Variety of projects primarily using R to create and adapt public health models and provide user interfaces to aid decision making.
+ - title: Public Health Economist
+   start: 2018
    end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
+   employer: World Health Organisation - Physical Activity Unit
+   description: initiated and led a research project developing the methods used in the WHO Europe's Health Economic Assessment Tool for walking and cycling.
+ - title: Health Economist
+   start: 2016
    end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: University of Newcastle
+   description: I was responsible for the development of a large scale contingent valuation exercise, the results of which are to be used to feed into a resource allocation priority setting exercise for NHS England Dentistry.
+ - title: Research Assistant
+   start: 2014
+   end: 2016
+   employer: University of Nottingham
+   description: Health economist primarily focused on health services research, in particular the GP Access Scheme. Results of the evaluation were presented to NHS England and the House of Commons Health Select Committee
 
 #Education is required
 education:
  - level: PhD
-   date: 2016-2021
+   date: 2016-Ongoing
    subject: Public Health Economics & Decision Science
    school: University of Sheffield
    
